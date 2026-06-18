@@ -1,0 +1,1 @@
+Whitewall é um sistema web voltado à governança do uso de ferramentas externas de Inteligência Artificial, permitindo análise de documentos, aplicação de regras de acesso, controle de permissões e geração de trilhas de auditoria em ambientes institucionais.
