@@ -1,4 +1,7 @@
 package br.com.whitewall.domain.enums;
 
-public enum AcessDecision {
+public enum AccessDecision {
+    ALLOWED,
+    BLOCKED,
+    PENDING_APPROVAL
 }

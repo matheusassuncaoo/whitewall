@@ -1,4 +1,8 @@
 package br.com.whitewall.domain.enums;
 
-public class UserRole {
+public enum UserRole {
+    ADMIN,
+    APPROVER,
+    AUDITOR,
+    USER
 }
